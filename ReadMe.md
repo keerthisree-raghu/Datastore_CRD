@@ -1,6 +1,6 @@
 # Key-Value Datastore
 
-A file-based key-value datastore that supports basic CRD (create, read, delete) operations.
+A file-based key-value datastore that supports basic CRD (create, read, delete) operations using NodeJS.
 
 ## Prerequisites
 
