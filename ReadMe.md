@@ -27,7 +27,7 @@ npm install
 
 ## Usage
 
-Import the 'create-read-delete.js' file into any JavaScript file and invoke the required methods with the specified parameters.
+Import the 'create-read-delete.js' file into any JavaScript file and invoke the required methods with the specified arguments.
 
 ```js
 var datastore = require('./create-read-delete.js');
